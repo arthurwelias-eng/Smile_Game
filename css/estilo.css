@@ -34,4 +34,7 @@
     border: 15px solid black;
     padding: 10px;
     margin: 20px;
+    background-size: 280px;
+    background-position-x: center;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3P5S0yb4pl5pUIxFsFUQgxArzUI2M41bdlw&s');
   }
